@@ -66,7 +66,7 @@ If you just want to delete contents related to a specific docker, refer to the [
 If you cant run any **docker** command, you may not be on the same usergroup as docker. To solve this just [add user to docker group](https://www.configserverfirewall.com/ubuntu-linux/add-user-to-docker-group-ubuntu/).
 
 # License
-This repository is released under the Apache License 2.0, see [LICENSE](https://github.com/Ab-Tx/r3live_docker-vnc/blob/main/LICENSE.txt).
+This repository is released under the Apache License 2.0, see [LICENSE](https://github.com/Ab-Tx/r3live-ros-docker-vnc/blob/master/LICENSE).
 Unless attributed otherwise, everything in this repository is under the Apache License 2.0.
 
 ### Acknowledgements
